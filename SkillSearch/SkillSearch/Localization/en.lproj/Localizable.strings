@@ -1,0 +1,38 @@
+// MARK: - Welcome Screen
+"welcomeScreen_getStartedButton" = "Get Started";
+"welcomeScreen_loremIpsum" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
+"welcomeScreen_skillSearch" = "SkillSearch";
+"welcomeScreen_alreadyHaveAccount" = "I already have an account";
+
+// MARK: - Register Screen
+"registerScreen_welcome" = "Welcome";
+"registerScreen_email" = "E-mail address";
+"registerScreen_password" = "Passwod";
+"registerScreen_fullName" = "Full Name";
+"registerScreen_skills" = "Skills separated by ',' (ex.: swift,flutter,ios)";
+"registerScreen_singUp" = "Sign Up";
+
+// MARK: - Login Screen
+"loginScreen_welcome" = "Welcome back!";
+"loginScreen_email" = "E-mail address";
+"loginScreen_password" = "Passwod";
+"loginScreen_forgotPassword" = "Forgot password";
+"loginScreen_singIn" = "Sign In";
+
+// MARK: - Forgot Password Screen
+"forgotPasswordScreen_sendEmail" = "Send password reset email";
+"forgotPasswirdScreen_confirmationMessage" = "Password reset email sent!";
+
+// MARK: - Home Screen
+"homeScreen_searchBarPlaceholder" = "Search by name or skill";
+"homeScreen_alertTitle" = "Logging out";
+"homeScreen_alertMessage" = "Are you sure you want to log out?";
+"homeScreen_alertButton" = "Log out";
+
+// MARK: - My Profile Screen
+
+"myProfileScreen_save" = "Save";
+"myProfileScreen_logOut" = "Log Out";
+
+// MARK: - Errors
+"error_unknown" = "Unknown error";
